@@ -8,7 +8,7 @@ import (
 type Stack01[T comparable] = generic01.Stack[T]
 
 func main() {
-	// fmt.Println("Hello world welcome 123")
+	fmt.Println("Hello world welcome 123. It is a test.")
 	// example01.MyExample01()
 
 	// arrays01.Array01Func()
